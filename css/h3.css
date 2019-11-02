@@ -1,12 +1,11 @@
 /*
  * @Author: ChenShan 
- * @Date: 2019-10-29 20:43:17 
- * @Last Modified by: ChenShan
- * @Last Modified time: 2019-11-01 17:29:25
+ * @Date: 2019-11-02 23:41:16 
+ * @Last Modified by:   ChenShan 
+ * @Last Modified time: 2019-11-02 23:41:16 
  */
  
- .node circle{
-    /* fill:#fff; */
+.node circle{
     stroke:steelblue;
     stroke-width: 1.5px;
 }
