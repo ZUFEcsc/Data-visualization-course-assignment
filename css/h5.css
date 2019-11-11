@@ -2,5 +2,32 @@
  * @Author: ChenShan 
  * @Date: 2019-11-08 00:11:41 
  * @Last Modified by: ChenShan
- * @Last Modified time: 2019-11-08 00:12:23
+ * @Last Modified time: 2019-11-10 18:27:59
  */
+ #svgContainer{
+    width: 100%;
+    height: 100%;
+}
+.every{
+    width: 400px;
+    height: 425px;
+    margin: 15px;
+    float: left;
+}
+#svgContainer .every h3{
+    margin:0;
+}
+#svgContainer .every .button{
+    float: right;
+    margin-right: 20px;
+    font-size: 14px;
+    cursor: pointer;
+    padding: 2px 8px;
+    border:1px solid #ccc;
+    background: yellowgreen;
+    border-radius: 4px;
+}
+#svgContainer .every .svg{
+    width: 400px;
+    height: 400px;
+}
