@@ -1,0 +1,40 @@
+/*
+ * @Author: ChenShan 
+ * @Date: 2019-11-19 19:37:37 
+ * @Last Modified by: ChenShan
+ * @Last Modified time: 2019-11-19 19:46:33
+ */
+
+ svg {
+    font: 10px sans-serif;
+  }
+  
+  .background path {
+    fill: none;
+    stroke: #ccc;
+    stroke-opacity: .4;
+    shape-rendering: crispEdges;
+  }
+  
+  .foreground path {
+    fill: none;
+    stroke: steelblue;
+    stroke-opacity: .7;
+  }
+  
+  .brush .extent {
+    fill-opacity: .3;
+    stroke: #fff;
+    shape-rendering: crispEdges;
+  }
+  
+  .axis line, .axis path {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+  }
+  
+  .axis text {
+    text-shadow: 0 1px 0 #fff;
+  }
+  
